@@ -3,8 +3,72 @@
     <id>http://example.com</id>
     <title>雨伞的个人博客 • Posts by &#34;月度总结&#34; tag</title>
     <link href="http://example.com" />
-    <updated>2023-05-05T08:32:45.787Z</updated>
+    <updated>2023-06-07T12:40:15.000Z</updated>
     <category term="月度总结" />
+    <entry>
+        <id>http://example.com/2023/06/07/%E4%BA%94%E6%9C%88%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/</id>
+        <title>五月学习总结</title>
+        <link rel="alternate" href="http://example.com/2023/06/07/%E4%BA%94%E6%9C%88%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/"/>
+        <content type="html">&lt;p&gt;&lt;strong&gt;大学课程&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;按时且尽力按质完成了平时作业&lt;/p&gt;
+&lt;p&gt;一些大型作业：&lt;/p&gt;
+&lt;p&gt;数据结构实践作业并答辩&lt;/p&gt;
+&lt;p&gt;思修 pre&lt;/p&gt;
+&lt;p&gt;学英 pre&lt;/p&gt;
+&lt;p&gt;体育理论作业&lt;/p&gt;
+&lt;p&gt;通识期末论文&lt;/p&gt;
+&lt;p&gt;游泳考试和体测顺利&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;复习计划：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;高数–》梳理各章节概念及公式–》作业题回顾–》梳理题型–》补题–》总结–》限时训练&lt;/li&gt;
+&lt;li&gt;电子电路–》重做电路部分题目–》听模电网课–》预习数电–》听数电网课–》补题–》总结&lt;/li&gt;
+&lt;li&gt;数据结构–》订正小测–》梳理各章节概念及公式–》作业题回顾–》补题–》总结&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul class=&#34;task-list&#34;&gt;
+&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_0&#34; checked=&#34;true&#34; disabled=&#34;true&#34;&gt;&lt;label for=&#34;cbx_0&#34;&gt; 通识课于 ddl 前提交平时作文 * 3 + 期末作文 * 1&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;编程学习&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;数挖爬了五个网站，待优化 self.time 三个，待审核两个&lt;/p&gt;
+&lt;p&gt;加入了木木科技研发部，在里面完成了三个爬虫任务，有一个待改进&lt;/p&gt;
+&lt;p&gt;acm 复盘了一些题目&lt;/p&gt;
+&lt;p&gt;学习 qt 和 python 的 tkinter&lt;/p&gt;
+&lt;p&gt;学习了一点图像处理和图像分割的知识&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;竞赛与考证&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;互联网 + 课程赛道，未进入复赛，考虑原因有&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;商业计划书内容不全面 	2. 产品制作完成度低 	3. 不够创新（可以结合 ai 特色）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;互联网 + 红旅赛道，进入复赛参与答辩，老师建议如下&lt;/p&gt;
+&lt;p&gt;​	1. 不够创新（可以结合小语种特色）	2. 产出成果少（推文和已达成合作的非遗传承人不够）&lt;/p&gt;
+&lt;p&gt;“新时代，新青年” 投了五个作品，两个一等，一个二等，两个三等，上推校赛了。这件事告诉我们要多尝试，说不定就捡漏了&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;社团与级委&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;慧灵志愿活动并补录志愿时&lt;/p&gt;
+&lt;p&gt;社团 “最强部门” 活动&lt;/p&gt;
+&lt;p&gt;Light 志协换届面试副部&lt;/p&gt;
+&lt;p&gt;成为了下一届党建服务队副部&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;其他&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;校友会寻访通过二审&lt;/p&gt;
+&lt;p&gt;修了下单车&lt;/p&gt;
+&lt;p&gt;成为了下一届四班班导&lt;/p&gt;
+&lt;p&gt;报名了下一届领航学长&lt;/p&gt;
+&lt;p&gt;入党积极分子考试通过&lt;/p&gt;
+&lt;p&gt;统协通过一面&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+        <category term="月度总结" />
+        <updated>2023-06-07T12:40:15.000Z</updated>
+    </entry>
     <entry>
         <id>http://example.com/2023/05/05/%E5%9B%9B%E6%9C%88%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/</id>
         <title>四月学习总结</title>
