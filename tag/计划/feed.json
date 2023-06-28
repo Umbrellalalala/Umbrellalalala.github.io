@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "雨伞的个人博客 • All posts by \"计划\" tag",
+    "description": "",
+    "home_page_url": "http://example.com",
+    "items": [
+        {
+            "id": "http://example.com/2023/06/28/%E5%A4%A7%E4%B8%80%E4%B8%8B%E6%9A%91%E5%81%87%E8%AE%A1%E5%88%92/",
+            "url": "http://example.com/2023/06/28/%E5%A4%A7%E4%B8%80%E4%B8%8B%E6%9A%91%E5%81%87%E8%AE%A1%E5%88%92/",
+            "title": "大一下暑假计划",
+            "date_published": "2023-06-28T12:59:51.000Z",
+            "content_html": "<p>大一下暑假时间：6.30 中午（军训结束）—8.30（开学，班导可能需要提前几天返校）</p>\n<blockquote>\n<p>6.28-6.30</p>\n<ul>\n<li>制定暑假计划和大二上规划，并思考、补充、完善</li>\n<li>做一份专业调研报告，了解就业时招生单位的要求</li>\n<li>学习使用 chatgpt、newbing、midjourney 等 ai 有关应用</li>\n</ul>\n<p>6.30</p>\n<ul>\n<li>党建聚会</li>\n<li>六月学习总结</li>\n</ul>\n</blockquote>\n<blockquote>\n<p>7.1</p>\n<ul>\n<li>朋辈导师培训</li>\n<li>《岛上书店》</li>\n<li>acm 培训</li>\n<li>重新开始背单词的习惯</li>\n</ul>\n<p>7.2-7.30\t时间块 8:30-12:00 13:00-18:00 19:30-22:00 共 11h</p>\n<p>acm</p>\n<ul>\n<li>培训 5h</li>\n<li>《算法竞赛入门经典》共 12 章（3 天 1 章）1.5h</li>\n<li>算法基础课 26 节 1h</li>\n</ul>\n<p>编程</p>\n<ul>\n<li>图形构成 项目 1h</li>\n<li>学习前端 1h</li>\n<li>爬虫 1h</li>\n</ul>\n<p>创新创业</p>\n<ul>\n<li>友伴法 项目 0.5h</li>\n</ul>\n<p>《1984》</p>\n<p>尤克里里弹唱</p>\n<p>线上校友会</p>\n<p>7.31</p>\n<ul>\n<li>回家</li>\n<li>预约学车</li>\n<li>收拾整理</li>\n<li>七月学习总结</li>\n</ul>\n</blockquote>\n<blockquote>\n<p>8.1-8.30\t时间块 7:30-12:00 13:00-18:00 19:30-23:00 共 13h</p>\n<p>数学</p>\n<ul>\n<li>统协培训 4h</li>\n<li>数模培训 2h</li>\n</ul>\n<p>编程</p>\n<ul>\n<li>图形构成 项目 1h</li>\n<li>学习小程序  <sup>1</sup></li>\n<li>爬虫 1h</li>\n</ul>\n<p>学车</p>\n<ul>\n<li>每天 3h（路程中学习小程序 2h<sup>1</sup>）</li>\n</ul>\n<p>大二上课程</p>\n<ul>\n<li>每天 2h</li>\n</ul>\n</blockquote>\n",
+            "tags": [
+                "计划"
+            ]
+        }
+    ]
+}

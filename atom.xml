@@ -3,8 +3,89 @@
     <id>http://example.com</id>
     <title>雨伞的个人博客</title>
     <link href="http://example.com" />
-    <updated>2023-06-07T12:40:15.000Z</updated>
+    <updated>2023-06-28T12:59:51.000Z</updated>
     <category term="月度总结" />
+    <category term="计划" />
+    <entry>
+        <id>http://example.com/2023/06/28/%E5%A4%A7%E4%B8%80%E4%B8%8B%E6%9A%91%E5%81%87%E8%AE%A1%E5%88%92/</id>
+        <title>大一下暑假计划</title>
+        <link rel="alternate" href="http://example.com/2023/06/28/%E5%A4%A7%E4%B8%80%E4%B8%8B%E6%9A%91%E5%81%87%E8%AE%A1%E5%88%92/"/>
+        <content type="html">&lt;p&gt;大一下暑假时间：6.30 中午（军训结束）—8.30（开学，班导可能需要提前几天返校）&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;6.28-6.30&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;制定暑假计划和大二上规划，并思考、补充、完善&lt;/li&gt;
+&lt;li&gt;做一份专业调研报告，了解就业时招生单位的要求&lt;/li&gt;
+&lt;li&gt;学习使用 chatgpt、newbing、midjourney 等 ai 有关应用&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;6.30&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;党建聚会&lt;/li&gt;
+&lt;li&gt;六月学习总结&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;7.1&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;朋辈导师培训&lt;/li&gt;
+&lt;li&gt;《岛上书店》&lt;/li&gt;
+&lt;li&gt;acm 培训&lt;/li&gt;
+&lt;li&gt;重新开始背单词的习惯&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;7.2-7.30	时间块 8:30-12:00 13:00-18:00 19:30-22:00 共 11h&lt;/p&gt;
+&lt;p&gt;acm&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;培训 5h&lt;/li&gt;
+&lt;li&gt;《算法竞赛入门经典》共 12 章（3 天 1 章）1.5h&lt;/li&gt;
+&lt;li&gt;算法基础课 26 节 1h&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;编程&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;图形构成 项目 1h&lt;/li&gt;
+&lt;li&gt;学习前端 1h&lt;/li&gt;
+&lt;li&gt;爬虫 1h&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;创新创业&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;友伴法 项目 0.5h&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;《1984》&lt;/p&gt;
+&lt;p&gt;尤克里里弹唱&lt;/p&gt;
+&lt;p&gt;线上校友会&lt;/p&gt;
+&lt;p&gt;7.31&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;回家&lt;/li&gt;
+&lt;li&gt;预约学车&lt;/li&gt;
+&lt;li&gt;收拾整理&lt;/li&gt;
+&lt;li&gt;七月学习总结&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;8.1-8.30	时间块 7:30-12:00 13:00-18:00 19:30-23:00 共 13h&lt;/p&gt;
+&lt;p&gt;数学&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;统协培训 4h&lt;/li&gt;
+&lt;li&gt;数模培训 2h&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;编程&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;图形构成 项目 1h&lt;/li&gt;
+&lt;li&gt;学习小程序  &lt;sup&gt;1&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;爬虫 1h&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;学车&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;每天 3h（路程中学习小程序 2h&lt;sup&gt;1&lt;/sup&gt;）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;大二上课程&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;每天 2h&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+</content>
+        <category term="计划" />
+        <updated>2023-06-28T12:59:51.000Z</updated>
+    </entry>
     <entry>
         <id>http://example.com/2023/06/07/%E4%BA%94%E6%9C%88%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/</id>
         <title>五月学习总结</title>
