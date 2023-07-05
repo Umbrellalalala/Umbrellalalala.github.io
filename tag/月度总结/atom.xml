@@ -3,10 +3,49 @@
     <id>http://example.com</id>
     <title>雨伞的个人博客 • Posts by &#34;月度总结&#34; tag</title>
     <link href="http://example.com" />
-    <updated>2023-06-07T12:40:15.000Z</updated>
-    <category term="月度总结" />
+    <updated>2023-06-30T13:13:35.000Z</updated>
     <category term="计划" />
-    <category term="学习总结" />
+    <category term="月度总结" />
+    <entry>
+        <id>http://example.com/2023/06/30/%E5%85%AD%E6%9C%88%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/</id>
+        <title>六月学习总结</title>
+        <link rel="alternate" href="http://example.com/2023/06/30/%E5%85%AD%E6%9C%88%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/"/>
+        <content type="html">&lt;p&gt;&lt;strong&gt;大学课程&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;期末周结束，以下是目前已出的成绩&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/%E5%85%AD%E6%9C%88%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/2023061-16885230507592.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;反思：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;很多科的成绩是有水分的，我自己心知肚明，自己感觉理解通透的知识其实不多，只是会做题而已；&lt;/li&gt;
+&lt;li&gt;体育没 4.0 是小遗憾，大二要多多锻炼，争取体育 4.0，同时调整保持作息，养好身体；&lt;/li&gt;
+&lt;li&gt;电子电路没 4.0 是大遗憾，而且还占了 5 学分，下学期一定要注意哪些科目学分高，重点抓；&lt;/li&gt;
+&lt;li&gt;马原没有 4.0，这类思政课我也不知道应该怎么办，平时分已经很高了还是搞不到 4.0，算了，3.7 尽力了就好。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;编程学习&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;学习了一点语义分割的知识&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;竞赛与考证&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;互联网 + 课程赛道校银奖&lt;/p&gt;
+&lt;p&gt;四级考试，预估 520 分&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;听力 part3 错太多了，阅读几乎全对，写作不好说&lt;/li&gt;
+&lt;li&gt;六级要提前开始准备了，尤其要注意听力和写作，争取往 600 靠&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;其他&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;期末周 6.4-6.16&lt;/p&gt;
+&lt;p&gt;军训 6.17-6.30&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+        <category term="月度总结" />
+        <updated>2023-06-30T13:13:35.000Z</updated>
+    </entry>
     <entry>
         <id>http://example.com/2023/06/07/%E4%BA%94%E6%9C%88%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/</id>
         <title>五月学习总结</title>
