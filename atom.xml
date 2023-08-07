@@ -3,9 +3,45 @@
     <id>http://example.com</id>
     <title>雨伞的个人博客</title>
     <link href="http://example.com" />
-    <updated>2023-06-30T13:13:35.000Z</updated>
+    <updated>2023-08-07T12:35:45.000Z</updated>
     <category term="月度总结" />
     <category term="计划" />
+    <entry>
+        <id>http://example.com/2023/08/07/%E4%B8%83%E6%9C%88%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/</id>
+        <title>七月学习总结</title>
+        <link rel="alternate" href="http://example.com/2023/08/07/%E4%B8%83%E6%9C%88%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/"/>
+        <content type="html">&lt;p&gt;&lt;strong&gt;大学课程&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;收集了下学期课程的有关资源，听了个开头&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;编程学习&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;acm 培训与比赛&lt;/p&gt;
+&lt;p&gt;ai 省教改课题项目推进&lt;/p&gt;
+&lt;p&gt;协助完善 self_checking 爬虫自查工具&lt;/p&gt;
+&lt;p&gt;七月底总算开工爬虫了，已经有 4 个过 check 了，目标是开学前完成 36 个（仓库的 51%）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;竞赛与考证&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;下学期商赛项目的规划统筹&lt;/p&gt;
+&lt;p&gt;备考科目二&lt;/p&gt;
+&lt;p&gt;备赛数模&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;外语学习&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;坚持每日背单词&lt;/p&gt;
+&lt;p&gt;完善了英语学习方法论&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;其他&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;线上校友会 PPT 制作&lt;/p&gt;
+&lt;p&gt;朋辈导师工作&lt;/p&gt;
+&lt;p&gt;综测填写&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+        <category term="月度总结" />
+        <updated>2023-08-07T12:35:45.000Z</updated>
+    </entry>
     <entry>
         <id>http://example.com/2023/06/30/%E5%85%AD%E6%9C%88%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/</id>
         <title>六月学习总结</title>

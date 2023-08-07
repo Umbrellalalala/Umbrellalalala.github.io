@@ -5,6 +5,16 @@
     "home_page_url": "http://example.com",
     "items": [
         {
+            "id": "http://example.com/2023/08/07/%E4%B8%83%E6%9C%88%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/",
+            "url": "http://example.com/2023/08/07/%E4%B8%83%E6%9C%88%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/",
+            "title": "七月学习总结",
+            "date_published": "2023-08-07T12:35:45.000Z",
+            "content_html": "<p><strong>大学课程</strong></p>\n<blockquote>\n<p>收集了下学期课程的有关资源，听了个开头</p>\n</blockquote>\n<p><strong>编程学习</strong></p>\n<blockquote>\n<p>acm 培训与比赛</p>\n<p>ai 省教改课题项目推进</p>\n<p>协助完善 self_checking 爬虫自查工具</p>\n<p>七月底总算开工爬虫了，已经有 4 个过 check 了，目标是开学前完成 36 个（仓库的 51%）</p>\n</blockquote>\n<p><strong>竞赛与考证</strong></p>\n<blockquote>\n<p>下学期商赛项目的规划统筹</p>\n<p>备考科目二</p>\n<p>备赛数模</p>\n</blockquote>\n<p><strong>外语学习</strong></p>\n<blockquote>\n<p>坚持每日背单词</p>\n<p>完善了英语学习方法论</p>\n</blockquote>\n<p><strong>其他</strong></p>\n<blockquote>\n<p>线上校友会 PPT 制作</p>\n<p>朋辈导师工作</p>\n<p>综测填写</p>\n</blockquote>\n",
+            "tags": [
+                "月度总结"
+            ]
+        },
+        {
             "id": "http://example.com/2023/06/30/%E5%85%AD%E6%9C%88%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/",
             "url": "http://example.com/2023/06/30/%E5%85%AD%E6%9C%88%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/",
             "title": "六月学习总结",
