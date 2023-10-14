@@ -5,12 +5,49 @@
         <link>http://example.com</link>
         <description></description>
         <language>zh-CN</language>
-        <pubDate>Mon, 07 Aug 2023 20:35:45 +0800</pubDate>
-        <lastBuildDate>Mon, 07 Aug 2023 20:35:45 +0800</lastBuildDate>
+        <pubDate>Sat, 14 Oct 2023 11:33:00 +0800</pubDate>
+        <lastBuildDate>Sat, 14 Oct 2023 11:33:00 +0800</lastBuildDate>
         <category>月度总结</category>
         <category>计划</category>
-        <category>假期总结 学期规划</category>
         <category>算法设计作业</category>
+        <category>假期总结 学期规划 月度总结</category>
+        <item>
+            <guid isPermalink="true">http://example.com/2023/10/14/%E4%B9%9D%E6%9C%88%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/</guid>
+            <title>九月学习总结</title>
+            <link>http://example.com/2023/10/14/%E4%B9%9D%E6%9C%88%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/</link>
+            <category>月度总结</category>
+            <pubDate>Sat, 14 Oct 2023 11:33:00 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;strong&gt;大学课程&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;网络通识刷完&lt;/p&gt;
+&lt;p&gt;英语国家文化网课刷完&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;编程学习&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;quanta 后端二面 前三名&lt;/p&gt;
+&lt;p&gt;前端基础知识，待具体学习&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;竞赛与考证&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;荣获 2022-2023 年国家奖学金&lt;/p&gt;
+&lt;p&gt;数模省级三等奖&lt;/p&gt;
+&lt;p&gt;图形构成大挑接近尾声&lt;/p&gt;
+&lt;p&gt;木木科技小挑接近尾声&lt;/p&gt;
+&lt;p&gt;轻食团队启动工作&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;外语学习&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;报考六级&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;其他&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;秋之声 总算当众表演了一次&lt;/p&gt;
+&lt;p&gt;复盘薛学长学习路线&lt;/p&gt;
+&lt;p&gt;班导开学任务结束&lt;/p&gt;
+&lt;p&gt;蓝信封活动&lt;/p&gt;
+&lt;/blockquote&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://example.com/2023/08/07/%E4%B8%83%E6%9C%88%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/</guid>
             <title>七月学习总结</title>

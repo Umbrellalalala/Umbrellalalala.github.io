@@ -3,11 +3,48 @@
     <id>http://example.com</id>
     <title>雨伞的个人博客 • Posts by &#34;月度总结&#34; tag</title>
     <link href="http://example.com" />
-    <updated>2023-08-07T12:35:45.000Z</updated>
+    <updated>2023-10-14T03:33:00.000Z</updated>
     <category term="月度总结" />
     <category term="计划" />
-    <category term="假期总结 学期规划" />
     <category term="算法设计作业" />
+    <category term="假期总结 学期规划 月度总结" />
+    <entry>
+        <id>http://example.com/2023/10/14/%E4%B9%9D%E6%9C%88%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/</id>
+        <title>九月学习总结</title>
+        <link rel="alternate" href="http://example.com/2023/10/14/%E4%B9%9D%E6%9C%88%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/"/>
+        <content type="html">&lt;p&gt;&lt;strong&gt;大学课程&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;网络通识刷完&lt;/p&gt;
+&lt;p&gt;英语国家文化网课刷完&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;编程学习&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;quanta 后端二面 前三名&lt;/p&gt;
+&lt;p&gt;前端基础知识，待具体学习&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;竞赛与考证&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;荣获 2022-2023 年国家奖学金&lt;/p&gt;
+&lt;p&gt;数模省级三等奖&lt;/p&gt;
+&lt;p&gt;图形构成大挑接近尾声&lt;/p&gt;
+&lt;p&gt;木木科技小挑接近尾声&lt;/p&gt;
+&lt;p&gt;轻食团队启动工作&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;外语学习&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;报考六级&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;其他&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;秋之声 总算当众表演了一次&lt;/p&gt;
+&lt;p&gt;复盘薛学长学习路线&lt;/p&gt;
+&lt;p&gt;班导开学任务结束&lt;/p&gt;
+&lt;p&gt;蓝信封活动&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+        <category term="月度总结" />
+        <updated>2023-10-14T03:33:00.000Z</updated>
+    </entry>
     <entry>
         <id>http://example.com/2023/08/07/%E4%B8%83%E6%9C%88%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/</id>
         <title>七月学习总结</title>
