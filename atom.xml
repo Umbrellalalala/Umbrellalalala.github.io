@@ -3,15 +3,66 @@
     <id>http://example.com</id>
     <title>雨伞的个人博客</title>
     <link href="http://example.com" />
-    <updated>2023-10-14T03:33:00.000Z</updated>
+    <updated>2023-11-08T11:50:03.000Z</updated>
     <category term="月度总结" />
     <category term="假期总结 学期规划 月度总结" />
     <category term="计划" />
     <category term="算法设计作业" />
+    <category term="aaa" />
     <entry>
-        <id>http://example.com/2023/10/14/%E4%B9%9D%E6%9C%88%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/</id>
+        <id>http://example.com/eca31b5db33e/</id>
+        <title>scrapy</title>
+        <link rel="alternate" href="http://example.com/eca31b5db33e/"/>
+        <content type="html">&lt;figure class=&#34;highlight clean&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;41&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;42&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;43&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;44&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;45&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;46&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;47&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;48&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;49&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;50&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;51&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;52&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;53&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;54&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;55&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;56&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;57&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;58&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;59&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;60&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;61&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;62&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;63&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;64&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;65&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;66&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;67&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;68&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;69&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;70&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;71&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;72&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;73&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;74&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;75&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs clean&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;import&lt;/span&gt; datetime&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;import&lt;/span&gt; json&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;from&lt;/span&gt; pprint &lt;span class=&#34;hljs-keyword&#34;&gt;import&lt;/span&gt; pprint&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;import&lt;/span&gt; requests&lt;br&gt;&lt;br&gt;headers = &amp;#123;  # 请求头。&lt;br&gt;    # 假装请求是浏览器发出的（在这里实际上是网络爬虫发出的）。&lt;br&gt;    # 有些网站会通过检测请求头的User-Agent字段判断请求是&lt;br&gt;    # 浏览器发出的还是爬虫发出的。如果检测出是爬虫发出的，&lt;br&gt;    # 则拒绝相应。&lt;br&gt;    &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;User-Agent&amp;#x27;&lt;/span&gt;: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36&amp;#x27;&lt;/span&gt;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;br&gt;invalid_chars_for_windows_filenames = [&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;/&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;\\&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;:&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;*&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;?&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;&amp;quot;&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;&amp;lt;&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;&amp;gt;&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;|&amp;#x27;&lt;/span&gt;]&lt;br&gt;&lt;br&gt;&lt;br&gt;def fix_filename(filename):&lt;br&gt;    for char &lt;span class=&#34;hljs-keyword&#34;&gt;in&lt;/span&gt; invalid_chars_for_windows_filenames:&lt;br&gt;        filename = filename.replace(char, &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;&amp;quot;&lt;/span&gt;)&lt;br&gt;    return filename&lt;br&gt;&lt;br&gt;&lt;br&gt;def main():&lt;br&gt;    rcmd_api = &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;https://api.bilibili.com/x/web-interface/wbi/index/top/feed/rcmd&amp;quot;&lt;/span&gt;&lt;br&gt;    # rcmd_api = &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;https://api.bilibili.com/x/web-interface/wbi/index/top/feed/rcmd?ps=30&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;br&gt;    # 通过api请求json数据。&lt;br&gt;    r = requests.get(&lt;br&gt;        url=rcmd_api,&lt;br&gt;        headers=headers,&lt;br&gt;    )&lt;br&gt;    json_str = r.text  # Not html.&lt;br&gt;&lt;br&gt;    # 将请求得到的json字符串转换成Python字典。&lt;br&gt;    d = json.loads(json_str)&lt;br&gt;    pprint(d)&lt;br&gt;&lt;br&gt;    items = d[&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;data&amp;quot;&lt;/span&gt;][&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;item&amp;quot;&lt;/span&gt;]&lt;br&gt;&lt;br&gt;    rcmd_videos = []&lt;br&gt;    for item &lt;span class=&#34;hljs-keyword&#34;&gt;in&lt;/span&gt; items:&lt;br&gt;        # 获取封面图。&lt;br&gt;        pic = item[&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;pic&amp;quot;&lt;/span&gt;]&lt;br&gt;&lt;br&gt;        # 获取标题。&lt;br&gt;        title = item[&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;title&amp;quot;&lt;/span&gt;]&lt;br&gt;&lt;br&gt;        # 获取发布日期。&lt;br&gt;        pubdate = item[&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;pubdate&amp;quot;&lt;/span&gt;]&lt;br&gt;        pubdate = datetime.datetime.fromtimestamp(pubdate)&lt;br&gt;&lt;br&gt;        # 获取up主。&lt;br&gt;        owner_name = item[&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;owner&amp;quot;&lt;/span&gt;][&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;name&amp;quot;&lt;/span&gt;]&lt;br&gt;&lt;br&gt;        rcmd_videos.append(&amp;#123;&lt;br&gt;            &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;pic&amp;quot;&lt;/span&gt;: pic,&lt;br&gt;            &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;title&amp;quot;&lt;/span&gt;: title,&lt;br&gt;            &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;pubdate&amp;quot;&lt;/span&gt;: pubdate,&lt;br&gt;            &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;owner_name&amp;quot;&lt;/span&gt;: owner_name,&lt;br&gt;        &amp;#125;)&lt;br&gt;&lt;br&gt;        # Save the image.&lt;br&gt;        # r = requests.get(&lt;br&gt;        #     url=pic,&lt;br&gt;        #     headers=headers&lt;br&gt;        # )&lt;br&gt;        # image = r.content  # Not .text.&lt;br&gt;        # &lt;span class=&#34;hljs-keyword&#34;&gt;with&lt;/span&gt; open(f&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;&amp;#123;fix_filename(title)&amp;#125;.jpg&amp;quot;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;wb&amp;quot;&lt;/span&gt;) &lt;span class=&#34;hljs-keyword&#34;&gt;as&lt;/span&gt; f:&lt;br&gt;        #     f.write(image)&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt; __name__ == &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;__main__&amp;#x27;&lt;/span&gt;:&lt;br&gt;    main()&lt;br&gt;    &lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;41&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;42&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;43&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;44&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;45&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;46&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;47&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;48&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;49&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;50&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;51&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;52&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;53&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;54&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;55&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;56&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;57&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;58&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;59&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;60&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;61&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;62&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;63&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;64&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;65&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;66&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;67&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;68&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;69&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;70&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;71&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;72&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;73&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;74&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;75&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;from&lt;/span&gt; pprint &lt;span class=&#34;hljs-keyword&#34;&gt;import&lt;/span&gt; pprint&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;import&lt;/span&gt; requests&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;from&lt;/span&gt; bs4 &lt;span class=&#34;hljs-keyword&#34;&gt;import&lt;/span&gt; BeautifulSoup&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;obtain_channel_info&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;soup&lt;/span&gt;):&lt;br&gt;    channels = []  &lt;span class=&#34;hljs-comment&#34;&gt;# 存储各分区信息的列表。&lt;/span&gt;&lt;br&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# 获取包含各分区a标签的div标签。&lt;/span&gt;&lt;br&gt;    channel_div = soup.find(&lt;br&gt;        name=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;div&amp;quot;&lt;/span&gt;,&lt;br&gt;        class_=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;channel-items__left&amp;quot;&lt;/span&gt;,&lt;br&gt;    )&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# print(channel_div.prettify())&lt;/span&gt;&lt;br&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# 获取各个a标签。&lt;/span&gt;&lt;br&gt;    channel_as = channel_div.find_all(&lt;br&gt;        name=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;a&amp;quot;&lt;/span&gt;,&lt;br&gt;    )&lt;br&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# 从各个a标签获取分区名和分区链接。&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;for&lt;/span&gt; channel_a &lt;span class=&#34;hljs-keyword&#34;&gt;in&lt;/span&gt; channel_as:&lt;br&gt;        &lt;span class=&#34;hljs-comment&#34;&gt;# 获取分区名。&lt;/span&gt;&lt;br&gt;        channel_name = channel_a.text&lt;br&gt;&lt;br&gt;        &lt;span class=&#34;hljs-comment&#34;&gt;# 获取分区链接。&lt;/span&gt;&lt;br&gt;        channel_href = channel_a[&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;href&amp;quot;&lt;/span&gt;]&lt;br&gt;        channel_href = &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;https:&amp;quot;&lt;/span&gt; + channel_href&lt;br&gt;        &lt;span class=&#34;hljs-comment&#34;&gt;# channel_href = f&amp;quot;https:&amp;#123;channel_href&amp;#125;&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;br&gt;        &lt;span class=&#34;hljs-comment&#34;&gt;# 将分区名和分区链接装进字典，将该字典加入channels列表。&lt;/span&gt;&lt;br&gt;        channels.append(&amp;#123;&lt;br&gt;            &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;name&amp;quot;&lt;/span&gt;: channel_name,&lt;br&gt;            &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;href&amp;quot;&lt;/span&gt;: channel_href,&lt;br&gt;        &amp;#125;)&lt;br&gt;&lt;br&gt;    pprint(channels)&lt;br&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# 保存分区信息。&lt;/span&gt;&lt;br&gt;    &lt;span class=&#34;hljs-keyword&#34;&gt;with&lt;/span&gt; &lt;span class=&#34;hljs-built_in&#34;&gt;open&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;channels.txt&amp;quot;&lt;/span&gt;, &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;w&amp;quot;&lt;/span&gt;, encoding=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;utf-8&amp;quot;&lt;/span&gt;) &lt;span class=&#34;hljs-keyword&#34;&gt;as&lt;/span&gt; f:&lt;br&gt;        f.write(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;name,href\n&amp;quot;&lt;/span&gt;)&lt;br&gt;        &lt;span class=&#34;hljs-keyword&#34;&gt;for&lt;/span&gt; channel &lt;span class=&#34;hljs-keyword&#34;&gt;in&lt;/span&gt; channels:&lt;br&gt;            f.write(&lt;span class=&#34;hljs-string&#34;&gt;f&amp;quot;&lt;span class=&#34;hljs-subst&#34;&gt;&amp;#123;channel[&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;name&amp;#x27;&lt;/span&gt;]&amp;#125;&lt;/span&gt;,&lt;span class=&#34;hljs-subst&#34;&gt;&amp;#123;channel[&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;href&amp;#x27;&lt;/span&gt;]&amp;#125;&lt;/span&gt;\n&amp;quot;&lt;/span&gt;)&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;hljs-title function_&#34;&gt;main&lt;/span&gt;():&lt;br&gt;    url = &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;https://www.bilibili.com/&amp;quot;&lt;/span&gt;  &lt;span class=&#34;hljs-comment&#34;&gt;# B站URL。&lt;/span&gt;&lt;br&gt;    headers = &amp;#123;  &lt;span class=&#34;hljs-comment&#34;&gt;# 请求头。&lt;/span&gt;&lt;br&gt;        &lt;span class=&#34;hljs-comment&#34;&gt;# 假装请求是浏览器发出的（在这里实际上是网络爬虫发出的）。&lt;/span&gt;&lt;br&gt;        &lt;span class=&#34;hljs-comment&#34;&gt;# 有些网站会通过检测请求头的User-Agent字段判断请求是&lt;/span&gt;&lt;br&gt;        &lt;span class=&#34;hljs-comment&#34;&gt;# 浏览器发出的还是爬虫发出的。如果检测出是爬虫发出的，&lt;/span&gt;&lt;br&gt;        &lt;span class=&#34;hljs-comment&#34;&gt;# 则拒绝相应。&lt;/span&gt;&lt;br&gt;        &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;User-Agent&amp;#x27;&lt;/span&gt;: &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36&amp;#x27;&lt;/span&gt;&lt;br&gt;    &amp;#125;&lt;br&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# 第一步：获取html。&lt;/span&gt;&lt;br&gt;    r = requests.get(  &lt;span class=&#34;hljs-comment&#34;&gt;# 向B站发出请求，并获取B站的相应。&lt;/span&gt;&lt;br&gt;        url=url,  &lt;span class=&#34;hljs-comment&#34;&gt;# 指定URL。&lt;/span&gt;&lt;br&gt;        headers=headers,  &lt;span class=&#34;hljs-comment&#34;&gt;# 指定请求头。&lt;/span&gt;&lt;br&gt;    )&lt;br&gt;    html = r.text  &lt;span class=&#34;hljs-comment&#34;&gt;# 从B站响应（变量r）中获取html。&lt;/span&gt;&lt;br&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# 第二步：解析html。&lt;/span&gt;&lt;br&gt;    soup = BeautifulSoup(&lt;br&gt;        markup=html,  &lt;span class=&#34;hljs-comment&#34;&gt;# 指定html。&lt;/span&gt;&lt;br&gt;        features=&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;html.parser&amp;quot;&lt;/span&gt;,  &lt;span class=&#34;hljs-comment&#34;&gt;# 指定解析器。&lt;/span&gt;&lt;br&gt;    )&lt;br&gt;&lt;br&gt;    &lt;span class=&#34;hljs-comment&#34;&gt;# 第三步：获取分区信息（分区名和分区链接）。&lt;/span&gt;&lt;br&gt;    obtain_channel_info(soup=soup)&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;if&lt;/span&gt; __name__ == &lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;__main__&amp;#x27;&lt;/span&gt;:&lt;br&gt;    main()&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+</content>
+        <category term="aaa" />
+        <updated>2023-11-08T11:50:03.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://example.com/ba22da0d8713/</id>
+        <title>十月学习总结</title>
+        <link rel="alternate" href="http://example.com/ba22da0d8713/"/>
+        <content type="html">&lt;p&gt;&lt;strong&gt;大学课程&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;英语国家文化小测一次 44/50&lt;/p&gt;
+&lt;p&gt;操作系统小测两次 10/10 85/100&lt;/p&gt;
+&lt;p&gt;笔译小组作业个人部分&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;编程学习&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;数挖收尾自己的工作，交接给别人&lt;/p&gt;
+&lt;p&gt;Java 大作业《利用 Hanlp、Kumo 开源包实现简单的文本分词、去停用词、统计词频和生成词云功能》&lt;/p&gt;
+&lt;p&gt;学习了 html 基础，准备学 css 基础&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;竞赛与考证&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;报名亚太杯、蓝桥杯&lt;/p&gt;
+&lt;p&gt;语艺分割 挑战杯 院二等奖&lt;/p&gt;
+&lt;p&gt;2023 年第十一届全国大学生数字媒体科技作品及创意竞赛省赛移动应用开发类 国家级 三等奖&lt;/p&gt;
+&lt;p&gt;小挑备赛中，准备各种团队的各种 ppt、文书&lt;/p&gt;
+&lt;p&gt;轻食团队启动工作&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;外语学习&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;买了本六级真题&lt;/p&gt;
+&lt;p&gt;背了点单词&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;其他&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;蓝信封志愿活动&lt;/p&gt;
+&lt;p&gt;领航学长志愿活动&lt;/p&gt;
+&lt;p&gt;楼层长扫楼志愿活动&lt;/p&gt;
+&lt;p&gt;红色知识竞赛进入决赛&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+        <category term="月度总结" />
+        <updated>2023-11-08T10:26:23.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://example.com/400a1da28310/</id>
         <title>九月学习总结</title>
-        <link rel="alternate" href="http://example.com/2023/10/14/%E4%B9%9D%E6%9C%88%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/"/>
+        <link rel="alternate" href="http://example.com/400a1da28310/"/>
         <content type="html">&lt;p&gt;&lt;strong&gt;大学课程&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;网络通识刷完&lt;/p&gt;
@@ -46,9 +97,9 @@
         <updated>2023-10-14T03:33:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2023/09/06/%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83%E5%8F%8A%E3%80%8A%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%E3%80%8B%E8%AF%BB%E5%90%8E%E6%84%9F/</id>
+        <id>http://example.com/9db01e6bb174/</id>
         <title>编码规范及《数学之美》读后感</title>
-        <link rel="alternate" href="http://example.com/2023/09/06/%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83%E5%8F%8A%E3%80%8A%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%E3%80%8B%E8%AF%BB%E5%90%8E%E6%84%9F/"/>
+        <link rel="alternate" href="http://example.com/9db01e6bb174/"/>
         <content type="html">&lt;h4 id=&#34;编码规范&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#编码规范&#34;&gt;#&lt;/a&gt; 编码规范&lt;/h4&gt;
 &lt;blockquote&gt;
 &lt;p&gt;以下来源《Google C++ Style Guide》&lt;/p&gt;
@@ -68,9 +119,9 @@
         <updated>2023-09-06T14:32:41.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2023/08/29/%E5%85%AB%E6%9C%88%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93%20&amp;&amp;%20%E6%9A%91%E5%81%87%E5%B7%A5%E4%BD%9C%E6%80%BB%E7%BB%93%E5%8F%8A%E4%B8%8B%E5%AD%A6%E6%9C%9F%E8%A7%84%E5%88%92/</id>
+        <id>http://example.com/74d86a838dbf/</id>
         <title>八月学习总结&amp;&amp;暑假工作总结及下学期规划</title>
-        <link rel="alternate" href="http://example.com/2023/08/29/%E5%85%AB%E6%9C%88%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93%20&amp;&amp;%20%E6%9A%91%E5%81%87%E5%B7%A5%E4%BD%9C%E6%80%BB%E7%BB%93%E5%8F%8A%E4%B8%8B%E5%AD%A6%E6%9C%9F%E8%A7%84%E5%88%92/"/>
+        <link rel="alternate" href="http://example.com/74d86a838dbf/"/>
         <content type="html">&lt;h4 id=&#34;b暑假工作总结b&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#b暑假工作总结b&#34;&gt;#&lt;/a&gt; &lt;b&gt;暑假工作总结&lt;/b&gt;&lt;/h4&gt;
 &lt;p&gt;&lt;strong&gt;编程学习&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
@@ -189,9 +240,9 @@
         <updated>2023-08-29T05:20:07.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2023/08/07/%E4%B8%83%E6%9C%88%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/</id>
+        <id>http://example.com/627762eddd7e/</id>
         <title>七月学习总结</title>
-        <link rel="alternate" href="http://example.com/2023/08/07/%E4%B8%83%E6%9C%88%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/"/>
+        <link rel="alternate" href="http://example.com/627762eddd7e/"/>
         <content type="html">&lt;p&gt;&lt;strong&gt;大学课程&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;收集了下学期课程的有关资源，听了个开头&lt;/p&gt;
@@ -225,9 +276,9 @@
         <updated>2023-08-07T12:35:45.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2023/06/30/%E5%85%AD%E6%9C%88%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/</id>
+        <id>http://example.com/ac1c11f360c7/</id>
         <title>六月学习总结</title>
-        <link rel="alternate" href="http://example.com/2023/06/30/%E5%85%AD%E6%9C%88%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/"/>
+        <link rel="alternate" href="http://example.com/ac1c11f360c7/"/>
         <content type="html">&lt;p&gt;&lt;strong&gt;大学课程&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;期末周结束，以下是目前已出的成绩&lt;/p&gt;
@@ -265,9 +316,9 @@
         <updated>2023-06-30T13:13:35.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2023/06/28/%E5%A4%A7%E4%B8%80%E4%B8%8B%E6%9A%91%E5%81%87%E8%AE%A1%E5%88%92/</id>
+        <id>http://example.com/19078b4f92fc/</id>
         <title>大一下暑假计划</title>
-        <link rel="alternate" href="http://example.com/2023/06/28/%E5%A4%A7%E4%B8%80%E4%B8%8B%E6%9A%91%E5%81%87%E8%AE%A1%E5%88%92/"/>
+        <link rel="alternate" href="http://example.com/19078b4f92fc/"/>
         <content type="html">&lt;p&gt;大一下暑假时间：6.30 中午（军训结束）—8.30（开学，班导可能需要提前几天返校）&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;抽空做&lt;/p&gt;
@@ -350,9 +401,9 @@
         <updated>2023-06-28T12:59:51.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2023/06/07/%E4%BA%94%E6%9C%88%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/</id>
+        <id>http://example.com/a4334009551a/</id>
         <title>五月学习总结</title>
-        <link rel="alternate" href="http://example.com/2023/06/07/%E4%BA%94%E6%9C%88%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/"/>
+        <link rel="alternate" href="http://example.com/a4334009551a/"/>
         <content type="html">&lt;p&gt;&lt;strong&gt;大学课程&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;按时且尽力按质完成了平时作业&lt;/p&gt;
@@ -414,9 +465,9 @@
         <updated>2023-06-07T12:40:15.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2023/05/05/%E5%9B%9B%E6%9C%88%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/</id>
+        <id>http://example.com/930011c3ec9c/</id>
         <title>四月学习总结</title>
-        <link rel="alternate" href="http://example.com/2023/05/05/%E5%9B%9B%E6%9C%88%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/"/>
+        <link rel="alternate" href="http://example.com/930011c3ec9c/"/>
         <content type="html">&lt;p&gt;&lt;strong&gt;大学课程&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;按时且尽力按质完成了平时作业&lt;/p&gt;

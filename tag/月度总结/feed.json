@@ -5,8 +5,18 @@
     "home_page_url": "http://example.com",
     "items": [
         {
-            "id": "http://example.com/2023/10/14/%E4%B9%9D%E6%9C%88%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/",
-            "url": "http://example.com/2023/10/14/%E4%B9%9D%E6%9C%88%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/",
+            "id": "http://example.com/ba22da0d8713/",
+            "url": "http://example.com/ba22da0d8713/",
+            "title": "十月学习总结",
+            "date_published": "2023-11-08T10:26:23.000Z",
+            "content_html": "<p><strong>大学课程</strong></p>\n<blockquote>\n<p>英语国家文化小测一次 44/50</p>\n<p>操作系统小测两次 10/10 85/100</p>\n<p>笔译小组作业个人部分</p>\n</blockquote>\n<p><strong>编程学习</strong></p>\n<blockquote>\n<p>数挖收尾自己的工作，交接给别人</p>\n<p>Java 大作业《利用 Hanlp、Kumo 开源包实现简单的文本分词、去停用词、统计词频和生成词云功能》</p>\n<p>学习了 html 基础，准备学 css 基础</p>\n</blockquote>\n<p><strong>竞赛与考证</strong></p>\n<blockquote>\n<p>报名亚太杯、蓝桥杯</p>\n<p>语艺分割 挑战杯 院二等奖</p>\n<p>2023 年第十一届全国大学生数字媒体科技作品及创意竞赛省赛移动应用开发类 国家级 三等奖</p>\n<p>小挑备赛中，准备各种团队的各种 ppt、文书</p>\n<p>轻食团队启动工作</p>\n</blockquote>\n<p><strong>外语学习</strong></p>\n<blockquote>\n<p>买了本六级真题</p>\n<p>背了点单词</p>\n</blockquote>\n<p><strong>其他</strong></p>\n<blockquote>\n<p>蓝信封志愿活动</p>\n<p>领航学长志愿活动</p>\n<p>楼层长扫楼志愿活动</p>\n<p>红色知识竞赛进入决赛</p>\n</blockquote>\n",
+            "tags": [
+                "月度总结"
+            ]
+        },
+        {
+            "id": "http://example.com/400a1da28310/",
+            "url": "http://example.com/400a1da28310/",
             "title": "九月学习总结",
             "date_published": "2023-10-14T03:33:00.000Z",
             "content_html": "<p><strong>大学课程</strong></p>\n<blockquote>\n<p>网络通识刷完</p>\n<p>英语国家文化网课刷完</p>\n</blockquote>\n<p><strong>编程学习</strong></p>\n<blockquote>\n<p>quanta 后端二面 前三名</p>\n<p>前端基础知识，待具体学习</p>\n</blockquote>\n<p><strong>竞赛与考证</strong></p>\n<blockquote>\n<p>荣获 2022-2023 年国家奖学金</p>\n<p>数模省级三等奖</p>\n<p>图形构成大挑接近尾声</p>\n<p>木木科技小挑接近尾声</p>\n<p>轻食团队启动工作</p>\n</blockquote>\n<p><strong>外语学习</strong></p>\n<blockquote>\n<p>报考六级</p>\n</blockquote>\n<p><strong>其他</strong></p>\n<blockquote>\n<p>秋之声 总算当众表演了一次</p>\n<p>复盘薛学长学习路线</p>\n<p>班导开学任务结束</p>\n<p>蓝信封活动</p>\n</blockquote>\n",
@@ -15,8 +25,8 @@
             ]
         },
         {
-            "id": "http://example.com/2023/08/07/%E4%B8%83%E6%9C%88%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/",
-            "url": "http://example.com/2023/08/07/%E4%B8%83%E6%9C%88%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/",
+            "id": "http://example.com/627762eddd7e/",
+            "url": "http://example.com/627762eddd7e/",
             "title": "七月学习总结",
             "date_published": "2023-08-07T12:35:45.000Z",
             "content_html": "<p><strong>大学课程</strong></p>\n<blockquote>\n<p>收集了下学期课程的有关资源，听了个开头</p>\n</blockquote>\n<p><strong>编程学习</strong></p>\n<blockquote>\n<p>acm 培训与比赛</p>\n<p>ai 省教改课题项目推进</p>\n<p>协助完善 self_checking 爬虫自查工具</p>\n<p>七月底总算开工爬虫了，已经有 4 个过 check 了，目标是开学前完成 36 个（仓库的 51%）</p>\n</blockquote>\n<p><strong>竞赛与考证</strong></p>\n<blockquote>\n<p>下学期商赛项目的规划统筹</p>\n<p>备考科目二</p>\n<p>备赛数模</p>\n</blockquote>\n<p><strong>外语学习</strong></p>\n<blockquote>\n<p>坚持每日背单词</p>\n<p>完善了英语学习方法论</p>\n</blockquote>\n<p><strong>其他</strong></p>\n<blockquote>\n<p>线上校友会 PPT 制作</p>\n<p>朋辈导师工作</p>\n<p>综测填写</p>\n</blockquote>\n",
@@ -25,8 +35,8 @@
             ]
         },
         {
-            "id": "http://example.com/2023/06/30/%E5%85%AD%E6%9C%88%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/",
-            "url": "http://example.com/2023/06/30/%E5%85%AD%E6%9C%88%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/",
+            "id": "http://example.com/ac1c11f360c7/",
+            "url": "http://example.com/ac1c11f360c7/",
             "title": "六月学习总结",
             "date_published": "2023-06-30T13:13:35.000Z",
             "content_html": "<p><strong>大学课程</strong></p>\n<blockquote>\n<p>期末周结束，以下是目前已出的成绩</p>\n<p><img src=\"/img/%E5%85%AD%E6%9C%88%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/2023061.png\" alt=\"\"></p>\n</blockquote>\n<blockquote>\n<p>反思：</p>\n<ol>\n<li>很多科的成绩是有水分的，我自己心知肚明，自己感觉理解通透的知识其实不多，只是会做题而已；</li>\n<li>体育没 4.0 是小遗憾，大二要多多锻炼，争取体育 4.0，同时调整保持作息，养好身体；</li>\n<li>电子电路没 4.0 是大遗憾，而且还占了 5 学分，下学期一定要注意哪些科目学分高，重点抓；</li>\n<li>马原没有 4.0，这类思政课我也不知道应该怎么办，平时分已经很高了还是搞不到 4.0，算了，3.7 尽力了就好。</li>\n</ol>\n</blockquote>\n<p><strong>编程学习</strong></p>\n<blockquote>\n<p>学习了一点语义分割的知识</p>\n</blockquote>\n<p><strong>竞赛与考证</strong></p>\n<blockquote>\n<p>互联网 + 课程赛道校银奖</p>\n<p>四级考试，预估 520 分</p>\n<ul>\n<li>听力 part3 错太多了，阅读几乎全对，写作不好说</li>\n<li>六级要提前开始准备了，尤其要注意听力和写作，争取往 600 靠</li>\n</ul>\n</blockquote>\n<p><strong>其他</strong></p>\n<blockquote>\n<p>期末周 6.4-6.16</p>\n<p>军训 6.17-6.30</p>\n</blockquote>\n",
@@ -35,8 +45,8 @@
             ]
         },
         {
-            "id": "http://example.com/2023/06/07/%E4%BA%94%E6%9C%88%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/",
-            "url": "http://example.com/2023/06/07/%E4%BA%94%E6%9C%88%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/",
+            "id": "http://example.com/a4334009551a/",
+            "url": "http://example.com/a4334009551a/",
             "title": "五月学习总结",
             "date_published": "2023-06-07T12:40:15.000Z",
             "content_html": "<p><strong>大学课程</strong></p>\n<blockquote>\n<p>按时且尽力按质完成了平时作业</p>\n<p>一些大型作业：</p>\n<p>数据结构实践作业并答辩</p>\n<p>思修 pre</p>\n<p>学英 pre</p>\n<p>体育理论作业</p>\n<p>通识期末论文</p>\n<p>游泳考试和体测顺利</p>\n</blockquote>\n<blockquote>\n<p>复习计划：</p>\n<ol>\n<li>高数–》梳理各章节概念及公式–》作业题回顾–》梳理题型–》补题–》总结–》限时训练</li>\n<li>电子电路–》重做电路部分题目–》听模电网课–》预习数电–》听数电网课–》补题–》总结</li>\n<li>数据结构–》订正小测–》梳理各章节概念及公式–》作业题回顾–》补题–》总结</li>\n</ol>\n<ul class=\"task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"cbx_0\" checked=\"true\" disabled=\"true\"><label for=\"cbx_0\"> 通识课于 ddl 前提交平时作文 * 3 + 期末作文 * 1</label></li>\n</ul>\n</blockquote>\n<p><strong>编程学习</strong></p>\n<blockquote>\n<p>数挖爬了五个网站，待优化 self.time 三个，待审核两个</p>\n<p>加入了木木科技研发部，在里面完成了三个爬虫任务，有一个待改进</p>\n<p>acm 复盘了一些题目</p>\n<p>学习 qt 和 python 的 tkinter</p>\n<p>学习了一点图像处理和图像分割的知识</p>\n</blockquote>\n<p><strong>竞赛与考证</strong></p>\n<blockquote>\n<p>互联网 + 课程赛道，未进入复赛，考虑原因有</p>\n<ol>\n<li>商业计划书内容不全面 \t2. 产品制作完成度低 \t3. 不够创新（可以结合 ai 特色）</li>\n</ol>\n<p>互联网 + 红旅赛道，进入复赛参与答辩，老师建议如下</p>\n<p>​\t1. 不够创新（可以结合小语种特色）\t2. 产出成果少（推文和已达成合作的非遗传承人不够）</p>\n<p>“新时代，新青年” 投了五个作品，两个一等，一个二等，两个三等，上推校赛了。这件事告诉我们要多尝试，说不定就捡漏了</p>\n</blockquote>\n<p><strong>社团与级委</strong></p>\n<blockquote>\n<p>慧灵志愿活动并补录志愿时</p>\n<p>社团 “最强部门” 活动</p>\n<p>Light 志协换届面试副部</p>\n<p>成为了下一届党建服务队副部</p>\n</blockquote>\n<p><strong>其他</strong></p>\n<blockquote>\n<p>校友会寻访通过二审</p>\n<p>修了下单车</p>\n<p>成为了下一届四班班导</p>\n<p>报名了下一届领航学长</p>\n<p>入党积极分子考试通过</p>\n<p>统协通过一面</p>\n</blockquote>\n",
@@ -45,8 +55,8 @@
             ]
         },
         {
-            "id": "http://example.com/2023/05/05/%E5%9B%9B%E6%9C%88%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/",
-            "url": "http://example.com/2023/05/05/%E5%9B%9B%E6%9C%88%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/",
+            "id": "http://example.com/930011c3ec9c/",
+            "url": "http://example.com/930011c3ec9c/",
             "title": "四月学习总结",
             "date_published": "2023-05-05T08:32:45.787Z",
             "content_html": "<p><strong>大学课程</strong></p>\n<blockquote>\n<p>按时且尽力按质完成了平时作业</p>\n<p>一些大型作业：</p>\n<p>数据结构实验报告两份</p>\n<p>电子电路实验报告一份</p>\n<p>网络实践和学习报告一份</p>\n<p>学英作文两份</p>\n<p>马原期中作业一份和 pre</p>\n</blockquote>\n<blockquote>\n<p>复习计划：第十周开始，按计划进行期末复习</p>\n<p>薄弱项：</p>\n<ol>\n<li>高数–》梳理各章节概念及公式–》作业题回顾–》梳理题型–》补题–》总结–》限时训练</li>\n<li>电子电路–》重做电路部分题目–》听模电网课–》预习数电–》听数电网课–》补题–》总结</li>\n<li>数据结构–》订正小测–》梳理各章节概念及公式–》作业题回顾–》补题–》总结</li>\n</ol>\n<p>思政课课上复习，准备思修和马原考试</p>\n<p>通识课于 ddl 前提交平时作文 * 3 + 期末作文 * 1</p>\n</blockquote>\n<blockquote>\n<p>从小测中得到的反思：</p>\n<p>综英小测和离散小测接近满分</p>\n<p>考砸了一次高数，一次数据结构，考不满意了一次高数，一次数据结构，一次电子电路</p>\n<p>跟陈晓梅老师探讨了一下后深刻意识到了自己的粗心是一个很严重的问题，粗心不仅仅对考试造成了影响，还对生活的各种事情造成了影响。回顾已经过去的几年，我的人生似乎充斥这粗心，我一定要慢慢的改掉这个毛病，具体实现方法如下：</p>\n<ol>\n<li>提升专注力</li>\n</ol>\n<ul>\n<li>日常学习中使用番茄钟锻炼扎专注力</li>\n<li>一次专注于做一件事，不要来回切换任务或者纠结做什么，更不要多线程处理，遇到突发事情在十秒内判断优先级后处理</li>\n<li>运动</li>\n<li>保证充足睡眠</li>\n<li>正念冥想</li>\n</ul>\n<ol start=\"2\">\n<li>考前复习</li>\n</ol>\n<ul>\n<li>概念不清晰–》考前一定要梳理一遍概念，仔细读一遍概念和定义，掌握性质</li>\n<li>概念不会–》学习效果差–》当天课内容当天复习–》甚至可以粗略预习</li>\n<li>思考不成体系–》画思维导图，找概念间的关系，总结归纳题型和方法</li>\n<li>计算错误–》草稿纸划分清晰，写清步骤和思路，大胆尝试，不跳步，做完立刻回头扫一遍所有字符，检查有无低级错误</li>\n<li>读题错误–》勾画题目关键字词</li>\n<li>经典错误–》总结起来，在临考前过一眼</li>\n</ul>\n<ol start=\"3\">\n<li>考试时间不够</li>\n</ol>\n<ul>\n<li>做题速度–》限时训练–》总结二级结论</li>\n<li>不熟练–》多做题</li>\n<li>不专注–》提升专注力</li>\n</ul>\n<p>这么一看感觉又像是高中阶段对考试的总结了，高中阶段我就多次归因自己的失败于” 粗心 “，希望这次我能落地实践而不是浮于纸面</p>\n</blockquote>\n<p><strong>竞赛与考证</strong></p>\n<blockquote>\n<p>燕兴杯英语应用竞赛校三等奖，意识到自己的英语水平正在不断退步，需要刻意地去每日学习一点英语，争取四六级高分</p>\n<p>以队长身份报名参加了互联网 + 课程赛道，作品是一款学习类 app，学习了如何设计 app，如何做 ppt</p>\n<p>以队员身份报名参加了互联网 + 红旅赛道，作品是一款非遗宣传平台，学习了如何制作商业计划书</p>\n<p>精英节校内招聘，体会了面试的感觉，学到了如何改进简历</p>\n<p>受邀参与了公共服务与治理调研大赛，组队体验一般，和邀请我的那位朋友聊了聊，深刻地认识到了找到好队友的重要性</p>\n<p>报名参加了职业规划大赛</p>\n</blockquote>\n<p><strong>编程学习</strong></p>\n<blockquote>\n<p>参加了 ACM 天梯赛，没拿到奖，也没进入集训队。回头反思自己确实没有花费多少心血在这方面，大二再看看有没有机会。</p>\n<p>数挖加入了李玲宝学姐的平行语料库建设项目，学习并正在爬虫中……</p>\n</blockquote>\n<p><strong>社团与级委</strong></p>\n<blockquote>\n<p>完成了一份校外探访心智障碍青年的策划案</p>\n<p>南校大型义修志愿者</p>\n<p>舍宠活动推送</p>\n<p>志愿时补录</p>\n</blockquote>\n<p><strong>其他</strong></p>\n<blockquote>\n<p>蓝信封志愿活动写了两封信</p>\n<p>入党积极分子培训</p>\n<p>报考了四级的笔试和口语</p>\n<p>和兄弟钟文坚一起交换书籍后刷了一套四级卷，预测分数 560</p>\n<p>和温博燃学长聊了一次天，学到了一些数模和蓝桥杯的知识</p>\n<p>和 L 学姐聊了一次天，确定了自己今后的方向是保研，学到了一些数挖和科研的知识</p>\n<p>和卜浩原学长线上聊了一次天，学到了一些科研的知识</p>\n</blockquote>\n",
