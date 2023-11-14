@@ -3,11 +3,20 @@
     <id>http://example.com</id>
     <title>雨伞的个人博客</title>
     <link href="http://example.com" />
-    <updated>2023-11-08T10:26:23.000Z</updated>
+    <updated>2023-11-14T04:47:13.000Z</updated>
     <category term="月度总结" />
     <category term="假期总结 学期规划 月度总结" />
     <category term="计划" />
     <category term="算法设计作业" />
+    <entry>
+        <id>http://example.com/34ae76d3f43d/</id>
+        <title>生日快乐</title>
+        <link rel="alternate" href="http://example.com/34ae76d3f43d/"/>
+        <content type="html">&lt;p&gt;链接：&lt;a href=&#34;https://pan.baidu.com/s/1Cd5R3rFc6aNKXkAkUB38kQ&#34;&gt;https://pan.baidu.com/s/1Cd5R3rFc6aNKXkAkUB38kQ&lt;/a&gt;&lt;br&gt;
+ 提取码：你的生日&lt;/p&gt;
+</content>
+        <updated>2023-11-14T04:47:13.000Z</updated>
+    </entry>
     <entry>
         <id>http://example.com/ba22da0d8713/</id>
         <title>十月学习总结</title>

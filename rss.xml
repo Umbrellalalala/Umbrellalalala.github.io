@@ -5,12 +5,21 @@
         <link>http://example.com</link>
         <description></description>
         <language>zh-CN</language>
-        <pubDate>Wed, 08 Nov 2023 18:26:23 +0800</pubDate>
-        <lastBuildDate>Wed, 08 Nov 2023 18:26:23 +0800</lastBuildDate>
+        <pubDate>Tue, 14 Nov 2023 12:47:13 +0800</pubDate>
+        <lastBuildDate>Tue, 14 Nov 2023 12:47:13 +0800</lastBuildDate>
         <category>月度总结</category>
         <category>假期总结 学期规划 月度总结</category>
         <category>计划</category>
         <category>算法设计作业</category>
+        <item>
+            <guid isPermalink="true">http://example.com/34ae76d3f43d/</guid>
+            <title>生日快乐</title>
+            <link>http://example.com/34ae76d3f43d/</link>
+            <pubDate>Tue, 14 Nov 2023 12:47:13 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;链接：&lt;a href=&#34;https://pan.baidu.com/s/1Cd5R3rFc6aNKXkAkUB38kQ&#34;&gt;https://pan.baidu.com/s/1Cd5R3rFc6aNKXkAkUB38kQ&lt;/a&gt;&lt;br&gt;
+ 提取码：你的生日&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://example.com/ba22da0d8713/</guid>
             <title>十月学习总结</title>
