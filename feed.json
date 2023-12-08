@@ -5,6 +5,16 @@
     "home_page_url": "http://example.com",
     "items": [
         {
+            "id": "http://example.com/0a4d3e563c8b/",
+            "url": "http://example.com/0a4d3e563c8b/",
+            "title": "十一月学习总结",
+            "date_published": "2023-12-07T14:51:26.000Z",
+            "content_html": "<p><strong>大学课程</strong></p>\n<blockquote>\n<p>操作系统小测 81/100</p>\n<p>面向对象编程小测 34/35</p>\n<p>体测 87.5/100</p>\n<p>开始期末复习</p>\n</blockquote>\n<p><strong>编程学习</strong></p>\n<blockquote>\n<p>Quanta 继续后端培训，完成了冬令营的展示</p>\n<p>成为了 NLP 实验室中的一员</p>\n<p>学习 scrapy 爬虫知识，在数挖给别人培训</p>\n<p>刷力扣</p>\n</blockquote>\n<p><strong>竞赛与考证</strong></p>\n<blockquote>\n<p>完善了大挑团队的核心代码和 ppt</p>\n<p>亚太杯数模圆满完工</p>\n<p>报名了寒假的数码港比赛</p>\n<p>小挑院一等奖 *1，二等奖 *2，三等奖 *3</p>\n</blockquote>\n<p><strong>外语学习</strong></p>\n<blockquote>\n<p>没有进展！好好反省！</p>\n<p>六级口语考试，考得很狼狈</p>\n</blockquote>\n<p><strong>其他</strong></p>\n<blockquote>\n<p>职业生涯规划，扫除了焦虑和迷茫</p>\n<p>完善简历</p>\n<p>党建服务队志愿活动</p>\n<p>领航学长志愿活动</p>\n<p>楼层长志愿活动</p>\n<p>朋辈导师迎新晚会</p>\n</blockquote>\n",
+            "tags": [
+                "月度总结"
+            ]
+        },
+        {
             "id": "http://example.com/34ae76d3f43d/",
             "url": "http://example.com/34ae76d3f43d/",
             "title": "生日快乐",
