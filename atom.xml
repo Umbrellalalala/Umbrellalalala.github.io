@@ -3,11 +3,45 @@
     <id>http://example.com</id>
     <title>雨伞的个人博客</title>
     <link href="http://example.com" />
-    <updated>2023-12-07T14:51:26.000Z</updated>
+    <updated>2024-01-07T14:30:50.000Z</updated>
     <category term="月度总结" />
     <category term="假期总结 学期规划 月度总结" />
     <category term="计划" />
     <category term="算法设计作业" />
+    <entry>
+        <id>http://example.com/cd69ce052dc4/</id>
+        <title>十二月学习总结</title>
+        <link rel="alternate" href="http://example.com/cd69ce052dc4/"/>
+        <content type="html">&lt;p&gt;这一个月基本上在备考期末&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;大学课程&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;期末考试结束&lt;/p&gt;
+&lt;p&gt;目前已知体育 90+，通识 100，操作系统 84&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;编程学习&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;力扣刷了三十多题&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;竞赛与考证&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;亚太杯数模国家级一等奖&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;外语学习&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;背单词&lt;/p&gt;
+&lt;p&gt;六级考试&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;其他&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;蓝信封志愿活动&lt;/p&gt;
+&lt;p&gt;领航学长志愿活动&lt;/p&gt;
+&lt;p&gt;朋辈导师志愿活动&lt;/p&gt;
+&lt;p&gt;楼层长任务&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+        <category term="月度总结" />
+        <updated>2024-01-07T14:30:50.000Z</updated>
+    </entry>
     <entry>
         <id>http://example.com/0a4d3e563c8b/</id>
         <title>十一月学习总结</title>
