@@ -3,11 +3,48 @@
     <id>http://example.com</id>
     <title>雨伞的个人博客</title>
     <link href="http://example.com" />
-    <updated>2024-01-07T14:30:50.000Z</updated>
+    <updated>2024-02-08T11:17:48.000Z</updated>
     <category term="月度总结" />
     <category term="假期总结 学期规划 月度总结" />
     <category term="计划" />
     <category term="算法设计作业" />
+    <category term="阅读总结" />
+    <entry>
+        <id>http://example.com/043a7da38fd0/</id>
+        <title>2024年一月学习总结</title>
+        <link rel="alternate" href="http://example.com/043a7da38fd0/"/>
+        <content type="html">&lt;p&gt;&lt;strong&gt;大学课程&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;期末考试结束，绩点 3.93，估计是和另一位同学并列第一&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;C:%5CUsers%5C%E9%9B%A8%E4%BC%9E%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20240208193131388.png&#34; alt=&#34;image-20240208193131388&#34;&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;编程学习&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;acm 培训&lt;/p&gt;
+&lt;p&gt;学习 python 基础&lt;/p&gt;
+&lt;p&gt;蓝桥杯备赛&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;竞赛与考证&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;备战数模并圆满完成美赛&lt;/p&gt;
+&lt;p&gt;语艺分割项目备战计设&lt;/p&gt;
+&lt;p&gt;舆论分析项目备战计设&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;外语学习&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;搜集雅思托福相关&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;其他&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;蓝信封志愿活动&lt;/p&gt;
+&lt;p&gt;领航学长志愿活动&lt;/p&gt;
+&lt;p&gt;朋辈导师志愿活动&lt;/p&gt;
+&lt;p&gt;综测总结&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+        <category term="阅读总结" />
+        <updated>2024-02-08T11:17:48.000Z</updated>
+    </entry>
     <entry>
         <id>http://example.com/cd69ce052dc4/</id>
         <title>十二月学习总结</title>
