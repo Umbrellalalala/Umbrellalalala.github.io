@@ -8,7 +8,6 @@
     <category term="假期总结 学期规划 月度总结" />
     <category term="计划" />
     <category term="算法设计作业" />
-    <category term="阅读总结" />
     <entry>
         <id>http://example.com/043a7da38fd0/</id>
         <title>2024年一月学习总结</title>
@@ -16,7 +15,7 @@
         <content type="html">&lt;p&gt;&lt;strong&gt;大学课程&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;期末考试结束，绩点 3.93，估计是和另一位同学并列第一&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;C:%5CUsers%5C%E9%9B%A8%E4%BC%9E%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20240208193131388.png&#34; alt=&#34;image-20240208193131388&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/2024%E5%B9%B4%E4%B8%80%E6%9C%88%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/1.png&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;编程学习&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
@@ -42,7 +41,7 @@
 &lt;p&gt;组好了 nlp 小队，准备假期好好学习&lt;/p&gt;
 &lt;/blockquote&gt;
 </content>
-        <category term="阅读总结" />
+        <category term="月度总结" />
         <updated>2024-02-08T11:17:48.000Z</updated>
     </entry>
     <entry>
