@@ -3,11 +3,49 @@
     <id>http://example.com</id>
     <title>雨伞的个人博客 • Posts by &#34;月度总结&#34; tag</title>
     <link href="http://example.com" />
-    <updated>2024-02-08T11:17:48.000Z</updated>
+    <updated>2024-03-07T11:42:15.000Z</updated>
     <category term="月度总结" />
     <category term="假期总结 学期规划 月度总结" />
     <category term="计划" />
     <category term="算法设计作业" />
+    <entry>
+        <id>http://example.com/e8a897d863d8/</id>
+        <title>2024年二月学习总结</title>
+        <link rel="alternate" href="http://example.com/e8a897d863d8/"/>
+        <content type="html">&lt;p&gt;&lt;strong&gt;大学课程&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;调整状态开始新学期，搜集各课程资料&lt;/p&gt;
+&lt;p&gt;确定好各科的学习节奏&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;编程学习与科研&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;acm 天梯赛两次，一次 27 名，一次 18 名，目标是今年天梯赛可以二队&lt;/p&gt;
+&lt;p&gt;吴恩达机器学习看完，深度学习看了一半&lt;/p&gt;
+&lt;p&gt;找导师拿到了大创项目方向&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;竞赛与考证&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;语艺分割项目备战计设&lt;/p&gt;
+&lt;p&gt;舆论分析项目备战计设&lt;/p&gt;
+&lt;p&gt;继续申请木木科技软著&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;外语学习&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;每天背单词&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;其他&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;综测总结&lt;/p&gt;
+&lt;p&gt;了解 kaggle&lt;/p&gt;
+&lt;p&gt;了解软著申请&lt;/p&gt;
+&lt;p&gt;整理电脑&lt;/p&gt;
+&lt;p&gt;开始锻炼身体，常去跑步拉引体&lt;/p&gt;
+&lt;p&gt;购置平板并计划使用提升生产力&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+        <category term="月度总结" />
+        <updated>2024-03-07T11:42:15.000Z</updated>
+    </entry>
     <entry>
         <id>http://example.com/cbd054aa5ca6/</id>
         <title>2024年一月学习总结</title>
@@ -31,7 +69,7 @@
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;外语学习&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;搜集雅思托福相关&lt;/p&gt;
+&lt;p&gt;搜集雅思托福相关资料&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;其他&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
