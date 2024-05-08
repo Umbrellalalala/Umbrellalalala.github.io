@@ -3,11 +3,56 @@
     <id>http://example.com</id>
     <title>雨伞的个人博客</title>
     <link href="http://example.com" />
-    <updated>2024-04-17T14:54:25.000Z</updated>
+    <updated>2024-05-07T14:57:50.000Z</updated>
     <category term="月度总结" />
     <category term="假期总结 学期规划 月度总结" />
     <category term="计划" />
     <category term="算法设计作业" />
+    <entry>
+        <id>http://example.com/7f5a4f7f81c5/</id>
+        <title>2024年四月学习总结</title>
+        <link rel="alternate" href="http://example.com/7f5a4f7f81c5/"/>
+        <content type="html">&lt;p&gt;&lt;strong&gt;大学课程&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;计网平时大作业&lt;/p&gt;
+&lt;p&gt;计网实验报告&lt;/p&gt;
+&lt;p&gt;英语文学小测 90/100&lt;/p&gt;
+&lt;p&gt;数据库小测 92/100&lt;/p&gt;
+&lt;p&gt;毛概期中测&lt;/p&gt;
+&lt;p&gt;web 小测&lt;/p&gt;
+&lt;p&gt;概率论小测 70/100&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;编程学习与科研&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;大创院二上推校审&lt;/p&gt;
+&lt;p&gt;ACM 排位赛&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;竞赛与考证&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;三个赛道的计设进入省赛&lt;/p&gt;
+&lt;p&gt;备战蓝桥杯&lt;/p&gt;
+&lt;p&gt;GPLT 天梯赛&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;外语学习&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;每天背单词&lt;/p&gt;
+&lt;p&gt;每天学粤语&lt;/p&gt;
+&lt;p&gt;六级真题 * 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;其他&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;家教&lt;/p&gt;
+&lt;p&gt;综测总结&lt;/p&gt;
+&lt;p&gt;蓝信封志愿活动&lt;/p&gt;
+&lt;p&gt;朋辈导师工作总结&lt;/p&gt;
+&lt;p&gt;领航学长志愿活动&lt;/p&gt;
+&lt;p&gt;入党思想汇报和个人自传&lt;/p&gt;
+&lt;p&gt;改用滴答清单记录日程&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+        <category term="月度总结" />
+        <updated>2024-05-07T14:57:50.000Z</updated>
+    </entry>
     <entry>
         <id>http://example.com/840ec6db5aff/</id>
         <title>2024年三月总结</title>
