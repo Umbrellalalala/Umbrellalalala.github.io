@@ -5,13 +5,48 @@
         <link>http://example.com</link>
         <description></description>
         <language>zh-CN</language>
-        <pubDate>Sun, 07 Jul 2024 13:06:38 +0800</pubDate>
-        <lastBuildDate>Sun, 07 Jul 2024 13:06:38 +0800</lastBuildDate>
+        <pubDate>Tue, 13 Aug 2024 15:49:38 +0800</pubDate>
+        <lastBuildDate>Tue, 13 Aug 2024 15:49:38 +0800</lastBuildDate>
         <category>月度总结</category>
         <category>假期总结 学期规划 月度总结</category>
         <category>计划</category>
         <category>算法设计作业</category>
-        <category>学习总结</category>
+        <item>
+            <guid isPermalink="true">http://example.com/4411070b83ee/</guid>
+            <title>2024年七月学习总结</title>
+            <link>http://example.com/4411070b83ee/</link>
+            <category>月度总结</category>
+            <pubDate>Tue, 13 Aug 2024 15:49:38 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;strong&gt;大学课程&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;用爬虫做了个实时抓取自己教务系统成绩和抢课用的程序&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;编程学习与科研&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;大创看了三篇论文，跑通了一个代码，以后全力攻克科研&lt;/p&gt;
+&lt;p&gt;语义分割软著申请补正&lt;/p&gt;
+&lt;p&gt;了解 kaggle 并搜集相关学习资料与学习&lt;/p&gt;
+&lt;p&gt;了解大模型相关知识&lt;/p&gt;
+&lt;p&gt;吴恩达机器学习、深度学习、3blue1brown 深度学习&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;竞赛与考证&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;大挑定期开组会，在原有项目基础上迭代&lt;/p&gt;
+&lt;p&gt;科二科三考完，拿到了驾照～&lt;/p&gt;
+&lt;p&gt;报名创青春比赛&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;外语学习&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;了解雅思并搜集相关学习资料与学习&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;其他&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;继续家教，预计假期内赚 4k 以上&lt;/p&gt;
+&lt;p&gt;更新了自己的学习方法论&lt;/p&gt;
+&lt;p&gt;回老家陪爷爷奶奶聊天&lt;/p&gt;
+&lt;/blockquote&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://example.com/0f58c19b3c1f/</guid>
             <title>2024年六月学习总结</title>

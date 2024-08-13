@@ -3,12 +3,47 @@
     <id>http://example.com</id>
     <title>雨伞的个人博客 • Posts by &#34;月度总结&#34; tag</title>
     <link href="http://example.com" />
-    <updated>2024-07-07T05:06:38.000Z</updated>
+    <updated>2024-08-13T07:49:38.000Z</updated>
     <category term="月度总结" />
     <category term="假期总结 学期规划 月度总结" />
     <category term="计划" />
     <category term="算法设计作业" />
-    <category term="学习总结" />
+    <entry>
+        <id>http://example.com/4411070b83ee/</id>
+        <title>2024年七月学习总结</title>
+        <link rel="alternate" href="http://example.com/4411070b83ee/"/>
+        <content type="html">&lt;p&gt;&lt;strong&gt;大学课程&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;用爬虫做了个实时抓取自己教务系统成绩和抢课用的程序&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;编程学习与科研&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;大创看了三篇论文，跑通了一个代码，以后全力攻克科研&lt;/p&gt;
+&lt;p&gt;语义分割软著申请补正&lt;/p&gt;
+&lt;p&gt;了解 kaggle 并搜集相关学习资料与学习&lt;/p&gt;
+&lt;p&gt;了解大模型相关知识&lt;/p&gt;
+&lt;p&gt;吴恩达机器学习、深度学习、3blue1brown 深度学习&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;竞赛与考证&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;大挑定期开组会，在原有项目基础上迭代&lt;/p&gt;
+&lt;p&gt;科二科三考完，拿到了驾照～&lt;/p&gt;
+&lt;p&gt;报名创青春比赛&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;外语学习&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;了解雅思并搜集相关学习资料与学习&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;其他&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;继续家教，预计假期内赚 4k 以上&lt;/p&gt;
+&lt;p&gt;更新了自己的学习方法论&lt;/p&gt;
+&lt;p&gt;回老家陪爷爷奶奶聊天&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+        <category term="月度总结" />
+        <updated>2024-08-13T07:49:38.000Z</updated>
+    </entry>
     <entry>
         <id>http://example.com/0f58c19b3c1f/</id>
         <title>2024年六月学习总结</title>
