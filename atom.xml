@@ -3,11 +3,21 @@
     <id>http://example.com</id>
     <title>雨伞的个人博客</title>
     <link href="http://example.com" />
-    <updated>2024-07-07T05:06:38.000Z</updated>
+    <updated>2024-08-13T07:49:38.000Z</updated>
     <category term="月度总结" />
     <category term="假期总结 学期规划 月度总结" />
     <category term="计划" />
     <category term="算法设计作业" />
+    <category term="学习总结" />
+    <entry>
+        <id>http://example.com/4411070b83ee/</id>
+        <title>2024年七月学习总结</title>
+        <link rel="alternate" href="http://example.com/4411070b83ee/"/>
+        <content type="html">&lt;p&gt;&lt;img src=&#34;https://gitee.com/umbrella233/img/raw/master/20240813160019.png&#34; alt=&#34;image-20240813155958874&#34;&gt;&lt;/p&gt;
+</content>
+        <category term="学习总结" />
+        <updated>2024-08-13T07:49:38.000Z</updated>
+    </entry>
     <entry>
         <id>http://example.com/0f58c19b3c1f/</id>
         <title>2024年六月学习总结</title>
