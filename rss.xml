@@ -5,12 +5,74 @@
         <link>http://example.com</link>
         <description></description>
         <language>zh-CN</language>
-        <pubDate>Tue, 13 Aug 2024 15:49:38 +0800</pubDate>
-        <lastBuildDate>Tue, 13 Aug 2024 15:49:38 +0800</lastBuildDate>
+        <pubDate>Tue, 27 Aug 2024 14:03:23 +0800</pubDate>
+        <lastBuildDate>Tue, 27 Aug 2024 14:03:23 +0800</lastBuildDate>
         <category>月度总结</category>
         <category>假期总结 学期规划 月度总结</category>
         <category>计划</category>
         <category>算法设计作业</category>
+        <category>ACM</category>
+        <item>
+            <guid isPermalink="true">http://example.com/33c8ff1eea56/</guid>
+            <title>P1219八皇后题解</title>
+            <link>http://example.com/33c8ff1eea56/</link>
+            <category>ACM</category>
+            <pubDate>Tue, 27 Aug 2024 14:03:23 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;#include&amp;lt;bits/stdc++.h&amp;gt;&lt;br&gt;
+using namespace std;&lt;br&gt;
+#define int long long&lt;br&gt;
+#define INF 0x3f3f3f3f&lt;br&gt;
+#define dbg(x) cout&amp;lt;&amp;lt;#x&amp;lt;&amp;lt;&amp;quot;=&amp;quot;&amp;lt;&amp;lt;x&amp;lt;&amp;lt;endl;&lt;br&gt;
+#define io ios::sync_with_stdio(false);cin.tie(nullptr);&lt;br&gt;
+//------------------------------------------------------&lt;br&gt;
+const int N=1e3+10;&lt;br&gt;
+int n,m;&lt;br&gt;
+int i,j,k;&lt;br&gt;
+string s;&lt;br&gt;
+int vis[100],l1[100],l2[100];&lt;br&gt;
+int a[100];&lt;br&gt;
+int cnt;&lt;br&gt;
+//--------------------solve()---------------------------&lt;br&gt;
+void dfs(int u) {&lt;br&gt;
+if(u&amp;gt;n) {&lt;br&gt;
+cnt++;&lt;br&gt;
+if(cnt&amp;lt;=3) {&lt;br&gt;
+for(int i=1; i&amp;lt;=n; ++i) {&lt;br&gt;
+cout&amp;lt;&amp;lt;a[i]&amp;lt;&amp;lt;&amp;quot; \n&amp;quot;[i==n];&lt;br&gt;
+}&lt;br&gt;
+}&lt;br&gt;
+return;&lt;br&gt;
+}&lt;br&gt;
+for(int i=1; i&amp;lt;=n; &lt;ins&gt;i) {&lt;br&gt;
+if(!vis[i]&amp;amp;&amp;amp;!l1[i-u+n]&amp;amp;&amp;amp;!l2[i+u]) {&lt;br&gt;
+a[u]=i;&lt;br&gt;
+vis[i]=1;&lt;br&gt;
+l1[i-u+n]=1;&lt;br&gt;
+l2[i+u]=1;&lt;br&gt;
+dfs(u+1);&lt;br&gt;
+vis[i]=0;&lt;br&gt;
+l1[i-u+n]=0;&lt;br&gt;
+l2[i+u]=0;&lt;br&gt;
+}&lt;br&gt;
+}&lt;br&gt;
+}&lt;br&gt;
+void solve(int T) {&lt;br&gt;
+cin&amp;gt;&amp;gt;n;&lt;br&gt;
+dfs(1);&lt;br&gt;
+cout&amp;lt;&amp;lt;cnt;&lt;br&gt;
+}&lt;br&gt;
+//---------------------main()---------------------------&lt;br&gt;
+signed main() {&lt;br&gt;
+io;&lt;br&gt;
+int T=1;&lt;br&gt;
+//	cin&amp;gt;&amp;gt;T;&lt;br&gt;
+for(int i=1; i&amp;lt;=T; i&lt;/ins&gt;) {&lt;br&gt;
+solve(T);&lt;br&gt;
+}&lt;br&gt;
+return 0;&lt;br&gt;
+}&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://example.com/4411070b83ee/</guid>
             <title>2024年七月学习总结</title>

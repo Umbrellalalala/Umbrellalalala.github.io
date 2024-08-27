@@ -5,6 +5,16 @@
     "home_page_url": "http://example.com",
     "items": [
         {
+            "id": "http://example.com/33c8ff1eea56/",
+            "url": "http://example.com/33c8ff1eea56/",
+            "title": "P1219八皇后题解",
+            "date_published": "2024-08-27T06:03:23.000Z",
+            "content_html": "<p>#include&lt;bits/stdc++.h&gt;<br>\nusing namespace std;<br>\n#define int long long<br>\n#define INF 0x3f3f3f3f<br>\n#define dbg(x) cout&lt;&lt;#x&lt;&lt;&quot;=&quot;&lt;&lt;x&lt;&lt;endl;<br>\n#define io ios::sync_with_stdio(false);cin.tie(nullptr);<br>\n//------------------------------------------------------<br>\nconst int N=1e3+10;<br>\nint n,m;<br>\nint i,j,k;<br>\nstring s;<br>\nint vis[100],l1[100],l2[100];<br>\nint a[100];<br>\nint cnt;<br>\n//--------------------solve()---------------------------<br>\nvoid dfs(int u) {<br>\nif(u&gt;n) {<br>\ncnt++;<br>\nif(cnt&lt;=3) {<br>\nfor(int i=1; i&lt;=n; ++i) {<br>\ncout&lt;&lt;a[i]&lt;&lt;&quot; \\n&quot;[i==n];<br>\n}<br>\n}<br>\nreturn;<br>\n}<br>\nfor(int i=1; i&lt;=n; <ins>i) {<br>\nif(!vis[i]&amp;&amp;!l1[i-u+n]&amp;&amp;!l2[i+u]) {<br>\na[u]=i;<br>\nvis[i]=1;<br>\nl1[i-u+n]=1;<br>\nl2[i+u]=1;<br>\ndfs(u+1);<br>\nvis[i]=0;<br>\nl1[i-u+n]=0;<br>\nl2[i+u]=0;<br>\n}<br>\n}<br>\n}<br>\nvoid solve(int T) {<br>\ncin&gt;&gt;n;<br>\ndfs(1);<br>\ncout&lt;&lt;cnt;<br>\n}<br>\n//---------------------main()---------------------------<br>\nsigned main() {<br>\nio;<br>\nint T=1;<br>\n//\tcin&gt;&gt;T;<br>\nfor(int i=1; i&lt;=T; i</ins>) {<br>\nsolve(T);<br>\n}<br>\nreturn 0;<br>\n}</p>\n",
+            "tags": [
+                "ACM"
+            ]
+        },
+        {
             "id": "http://example.com/4411070b83ee/",
             "url": "http://example.com/4411070b83ee/",
             "title": "2024年七月学习总结",

@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>P1219八皇后题解</title>
+    <link href="/33c8ff1eea56/"/>
+    <url>/33c8ff1eea56/</url>
+    
+    <content type="html"><![CDATA[<p>#include&lt;bits/stdc++.h&gt;<br>using namespace std;<br>#define int long long<br>#define INF 0x3f3f3f3f<br>#define dbg(x) cout&lt;&lt;#x&lt;&lt;&quot;=&quot;&lt;&lt;x&lt;&lt;endl;<br>#define io ios::sync_with_stdio(false);cin.tie(nullptr);<br>//------------------------------------------------------<br>const int N=1e3+10;<br>int n,m;<br>int i,j,k;<br>string s;<br>int vis[100],l1[100],l2[100];<br>int a[100];<br>int cnt;<br>//--------------------solve()---------------------------<br>void dfs(int u) {<br>if(u&gt;n) {<br>cnt++;<br>if(cnt&lt;=3) {<br>for(int i=1; i&lt;=n; ++i) {<br>cout&lt;&lt;a[i]&lt;&lt;&quot; \n&quot;[i==n];<br>}<br>}<br>return;<br>}<br>for(int i=1; i&lt;=n; <ins>i) {<br>if(!vis[i]&amp;&amp;!l1[i-u+n]&amp;&amp;!l2[i+u]) {<br>a[u]=i;<br>vis[i]=1;<br>l1[i-u+n]=1;<br>l2[i+u]=1;<br>dfs(u+1);<br>vis[i]=0;<br>l1[i-u+n]=0;<br>l2[i+u]=0;<br>}<br>}<br>}<br>void solve(int T) {<br>cin&gt;&gt;n;<br>dfs(1);<br>cout&lt;&lt;cnt;<br>}<br>//---------------------main()---------------------------<br>signed main() {<br>io;<br>int T=1;<br>//cin&gt;&gt;T;<br>for(int i=1; i&lt;=T; i</ins>) {<br>solve(T);<br>}<br>return 0;<br>}</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>ACM</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>2024年七月学习总结</title>
     <link href="/4411070b83ee/"/>
     <url>/4411070b83ee/</url>
