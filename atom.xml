@@ -3,12 +3,45 @@
     <id>http://example.com</id>
     <title>雨伞的个人博客</title>
     <link href="http://example.com" />
-    <updated>2024-08-27T06:03:23.000Z</updated>
+    <updated>2024-09-09T00:55:20.000Z</updated>
     <category term="月度总结" />
     <category term="ACM" />
     <category term="计划" />
     <category term="假期总结 学期规划 月度总结" />
     <category term="算法设计作业" />
+    <entry>
+        <id>http://example.com/db7ed56975a9/</id>
+        <title>2024年八月学习总结</title>
+        <link rel="alternate" href="http://example.com/db7ed56975a9/"/>
+        <content type="html">&lt;p&gt;&lt;strong&gt;大学课程&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;开学了，要注意稳住绩点，保持第一名&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;编程学习与科研&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;NLP 鱼书看了 1/3&lt;/p&gt;
+&lt;p&gt;组会&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;竞赛与考证&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;数学建模国赛&lt;/p&gt;
+&lt;p&gt;区块链比赛开赛&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;外语学习&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;雅思真题两套&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;其他&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;学习熟悉 obsidian 的使用&lt;/p&gt;
+&lt;p&gt;领航学长走访宿舍&lt;/p&gt;
+&lt;p&gt;综测总结&lt;/p&gt;
+&lt;p&gt;创新奖、育苗奖申请&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+        <category term="月度总结" />
+        <updated>2024-09-09T00:55:20.000Z</updated>
+    </entry>
     <entry>
         <id>http://example.com/33c8ff1eea56/</id>
         <title>P1219八皇后题解</title>
@@ -107,9 +140,9 @@ return 0;&lt;br&gt;
         <updated>2024-08-13T07:49:38.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/0f58c19b3c1f/</id>
+        <id>http://example.com/e23549d22fe0/</id>
         <title>2024年六月学习总结</title>
-        <link rel="alternate" href="http://example.com/0f58c19b3c1f/"/>
+        <link rel="alternate" href="http://example.com/e23549d22fe0/"/>
         <content type="html">&lt;p&gt;&lt;strong&gt;大学课程&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;挺过了难熬的期末周&lt;/p&gt;
