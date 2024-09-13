@@ -5,13 +5,20 @@
         <link>http://example.com</link>
         <description></description>
         <language>zh-CN</language>
-        <pubDate>Mon, 09 Sep 2024 08:55:20 +0800</pubDate>
-        <lastBuildDate>Mon, 09 Sep 2024 08:55:20 +0800</lastBuildDate>
+        <pubDate>Fri, 13 Sep 2024 17:06:36 +0800</pubDate>
+        <lastBuildDate>Fri, 13 Sep 2024 17:06:36 +0800</lastBuildDate>
         <category>月度总结</category>
         <category>ACM</category>
         <category>假期总结 学期规划 月度总结</category>
         <category>算法设计作业</category>
         <category>计划</category>
+        <item>
+            <guid isPermalink="true">http://example.com/38f29ba2cc11/</guid>
+            <title>test</title>
+            <link>http://example.com/38f29ba2cc11/</link>
+            <pubDate>Fri, 13 Sep 2024 17:06:36 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://example.com/db7ed56975a9/</guid>
             <title>2024年八月学习总结</title>
